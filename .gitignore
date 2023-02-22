@@ -4,3 +4,4 @@ abi.prop
 kernel-headers.tar.gz
 kernel-uapi-headers.tar.gz
 vmlinux
+test_mappings.zip
